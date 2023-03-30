@@ -1,2 +1,2 @@
-# JS-Practice
-js 공부 연습장
+# React-Practic
+Tic-Tac-Toe practice
