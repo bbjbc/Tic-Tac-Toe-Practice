@@ -1,2 +1,2 @@
-# React-Practic
+# React-Practice
 Tic-Tac-Toe practice
